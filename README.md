@@ -4,6 +4,7 @@
 
 ## Description
 A simple note taking app with cloud capability.
+Deployed Site: https://fauxpasnoted.herokuapp.com/
 
 ## Table of Contents
 - [Installation](#installation)
