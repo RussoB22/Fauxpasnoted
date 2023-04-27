@@ -18,6 +18,8 @@ Git clone from the repo and upload to a cloud service provider like Heroku or AW
 
 ## Usage
 Enter a title and note then hit the floppy disk icon on the top right.
+![image](https://user-images.githubusercontent.com/123154529/234832791-98e5de22-b2d4-4027-9e44-d2a44d98c215.png)
+
 
 ## Contributing
 Be approved by the owner and contribute to the project.
